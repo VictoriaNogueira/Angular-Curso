@@ -1,2 +1,3 @@
 # Angular-Curso
-Curso de Angular - por Loiane Groner
+
+Conteúdo do Curso de Angular ministrado por Loiane Groner.

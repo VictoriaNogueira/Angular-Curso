@@ -1,0 +1,18 @@
+<!-- <div class="panel panel-default">
+    <div class="panel-heading">
+        Título
+    </div>    
+    <div class="panel-body">
+        Panel Content        
+    </div>
+</div> -->
+
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <ng-content select=".titulo"></ng-content>
+    </div>    
+    <div class="panel-body">        
+        <ng-content select=".corpo"></ng-content>
+    </div>
+</div>
